@@ -15,7 +15,6 @@ L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier
 - [🔎 Principaux insights](#-principaux-insights)
 - [💡 Recommandations](#-recommandations)
 - [🧰 Outils](#-outils)
-- [📁 Contenu du projet](#-contenu-du-projet)
 
 ---
 
