@@ -14,6 +14,7 @@ L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier
 - [📊 Tableau de bord](#-tableau-de-bord)
 - [🔎 Principaux insights](#-principaux-insights)
 - [💡 Recommandations](#-recommandations)
+- [🧰 Limitations](#-limitations)
 - [🧰 Outils](#-outils)
 
 ---
