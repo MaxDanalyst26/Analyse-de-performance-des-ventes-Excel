@@ -6,6 +6,17 @@ Ce projet consiste à développer un **tableau de bord interactif sous Microsoft
 
 L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier les catégories et sous-catégories performantes et mettre en évidence les régions et situations nécessitant une attention particulière.
 
+## 📑 Table des matières
+
+- [🎯 Objectif](#-objectif)
+- [🗂️ Données](#️-données)
+- [🛠️ Méthodologie](#️-méthodologie)
+- [📊 Tableau de bord](#-tableau-de-bord)
+- [🔎 Principaux insights](#-principaux-insights)
+- [💡 Recommandations](#-recommandations)
+- [🧰 Outils](#-outils)
+- [📁 Contenu du projet](#-contenu-du-projet)
+
 ---
 
 ## 🗂️ Données
