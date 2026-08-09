@@ -94,6 +94,9 @@ Le dashboard permet de filtrer dynamiquement les résultats selon :
 - Profit par segment
 - Ventes et profits par catégorie
 
+<p align="center">
+  <img src="img/Tableau de bord.png" alt="Données utilisées" width="900">
+</p>
 ---
 
 ## 🔎 Principaux insights
