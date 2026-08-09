@@ -30,10 +30,9 @@ Le projet suit quatre grandes étapes :
 
 ### 1. Préparation des données
 
+- Vérification des doublons
 - Vérification des valeurs manquantes
 - Validation des types de données
-- Création des variables Année, Mois et Trimestre
-- Calcul de la marge bénéficiaire
 
 ### 2. Analyse
 
