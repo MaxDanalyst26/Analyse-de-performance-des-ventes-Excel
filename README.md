@@ -1,2 +1,3 @@
 # Data-analyst
-Projets d'analyse de données
+---
+Ce repo contient des projets d'analyse de données.
