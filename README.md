@@ -22,6 +22,8 @@ Le jeu de données contient notamment les informations suivantes :
 - Rabais
 - Profit
 
+![Dashboard Excel](img/données.png)
+
 ---
 
 ## 🛠️ Méthodologie
