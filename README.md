@@ -159,13 +159,13 @@ Les **tables** méritent toutefois une attention particulière puisqu'elles figu
 
 ---
 
-## 🧰 Outils
-
-`Microsoft Excel` · `Tableaux croisés dynamiques` · `Segments` · `Visualisation de données` · `Analyse de données`
-
----
-
 ## ⚙️ Limitations
 
 - Données limitées à la période **2014–2017**.  
-- Absence de variables externes (coûts logistiques, concurrence, saisonnalité avancée).  
+- Absence de variables externes (coûts logistiques, concurrence, saisonnalité avancée).
+
+---
+
+## 🧰 Outils
+
+`Microsoft Excel` · `Tableaux croisés dynamiques` · `Segments` · `Visualisation de données` · `Analyse de données`
