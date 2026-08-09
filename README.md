@@ -22,7 +22,7 @@ Le jeu de données contient notamment les informations suivantes :
 - Rabais
 - Profit
 
-![Dashboard Excel](img/donnees.png)
+![Dashboard Excel](img/Donnees.png)
 
 ---
 
