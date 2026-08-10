@@ -23,12 +23,14 @@ L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier
 
 Le jeu de données contient notamment les informations suivantes :
 
-- Commandes et clients
+- Commandes Id clients et nom des clients
 - Dates de commande et d’expédition
-- Région, État et ville
+- Mode d'expédition
+- Région, État, ville et code postal
 - Segment client
 - Catégorie et sous-catégorie de produits
 - Ventes
+- Nom du produit
 - Quantité
 - Rabais
 - Profit
