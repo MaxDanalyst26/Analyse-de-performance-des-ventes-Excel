@@ -180,7 +180,7 @@ Les **tables** méritent toutefois une attention particulière puisqu'elles figu
 
 📊 **Dashboard Excel**  
 [Voir le fichier Excel](02-Tableau_de_bord_performance_ventes.xlsx)
-📊 **[Voir le dashboard Excel](02-Dashboard-performance-ventes.xlsx)**
+
 📄 **Rapport d'analyse**  
 [Voir le rapport PDF](01-Rapport_Analyse_des_Performances_des_Ventes.pdf)
 
