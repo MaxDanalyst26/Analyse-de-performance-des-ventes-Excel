@@ -16,6 +16,7 @@ L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier
 - [💡 Recommandations](#-recommandations)
 - [⚠️ Limitations](#-limitations)
 - [🧰 Outils](#-outils)
+- [📁 Fichiers du projet](#-fichiers-du-projet)
 
 ---
 
@@ -172,3 +173,15 @@ Les **tables** méritent toutefois une attention particulière puisqu'elles figu
 ## 🧰 Outils
 
 `Microsoft Excel` · `Tableaux croisés dynamiques` · `Segments` · `Visualisation de données` · `Analyse de données`
+
+---
+
+## 📁 Fichiers du projet
+
+📊 **Dashboard Excel**  
+[Voir le fichier Excel](02-Tableau_de_bord_performance_ventes.xlsx)
+
+📄 **Rapport d'analyse**  
+[Voir le rapport PDF](01-Rapport_Analyse_des_Performances_des_Ventes.pdf)
+
+
