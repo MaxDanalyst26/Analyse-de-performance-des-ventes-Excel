@@ -22,6 +22,10 @@ L’analyse vise notamment à évaluer les ventes et la rentabilité, identifier
 
 ## 🗂️ Données
 
+Les données utilisées dans ce projet proviennent de :
+
+📁 [Source des données](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 Le jeu de données contient notamment les informations suivantes :
 
 - Commandes Id clients et nom des clients
