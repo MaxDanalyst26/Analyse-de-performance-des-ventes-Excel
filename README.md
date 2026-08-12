@@ -183,7 +183,7 @@ Les **tables** méritent toutefois une attention particulière puisqu'elles figu
 ## 📁 Fichiers du projet
 
 📊 **Dashboard Excel**  
-[Voir le fichier Excel](02-Tableau_de_bord_performance_ventes.xlsx)
+[Télécharger le fichier Excel](02-Tableau_de_bord_performance_ventes.xlsx)
 
 📄 **Rapport d'analyse**  
 [Voir le rapport PDF](01-Rapport_Analyse_des_Performances_des_Ventes.pdf)
